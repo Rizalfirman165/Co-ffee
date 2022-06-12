@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Co-ffee</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="deskrip">Tingkatkan Kesehatan Kopi \ndan Kualitas dengan \nSmartphone Anda</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="name_title">Pemeriksa Penyakit</string>
+    <string name="keterangan">Pastikan gambar tidak buram</string>
+    <string name="gallery">GALLERY</string>
+    <string name="camera">CAMERA</string>
+    <string name="scanning">SCANNING</string>
+    <string name="message_validation">Image Harus dipilih dahulu</string>
+    <string name="list_of_coffee_plant_diseases">Daftar Penyakit Tanaman Kopi</string>
+    <string name="detail_diseases">Detail Penyakit</string>
+    <string name="peoject_id">Peoject ID : C22-PC377</string>
+    <string name="project_name">Nama Project</string>
+    <string name="coo_ffee">Coo-ffee \n(Tingkatkan Kesehatan Kopi \ndan Kualitas dengan \nSmartphone Anda)</string>
+    <string name="project_themas">Tema Project</string>
+    <string name="isi_thema">Ketahanan Ekonomi dan Sosial \n(termasuk ketahanan pangan dan pertanian dan \nkeberlanjutan, infrastruktur, dan\npembangunan daerah)</string>
+    <string name="nama1">(MD) A2193G1825 - M. Rizal Firmansyah</string>
+    <string name="name2">(ML) M2007F0790 - Ivan Arsyaditya Prananda</string>
+    <string name="name3">(ML) M2200F1864 - Mohamad Arsya Kaukabi</string>
+    <string name="name4">(ML) M2322F2828 - Muhammad Naufal Ariiq</string>
+    <string name="name6">(CC) C2012F1275 - Muhammad Syaiful Rahman</string>
+    <string name="name5">(CC) C2224W2052 - Aqshol Afifi</string>
+    <string name="executive_summary">Ringkasan bisnis plan</string>
+    <string name="isi">Memahami setiap aspek produk Anda sangat penting dalam membangun ekonomi yang tangguh. Sebagai salah satu produsen terbesar dengan permintaan tinggi, Indonesia membutuhkan alat untuk mendukung pembelajaran dan membantu membuat kopi berkualitas baik dengan biaya minimal, lalu bagaimana melakukannya? Kami dengan bangga mempersembahkan aplikasi kami dengan beberapa fitur yang dapat membantu petani kopi dan pemangku kepentingan lainnya untuk menganalisis kualitas biji kopi dan tanaman kopi itu sendiri; dengan Co-ffee, Anda dapat dengan mudah memahami kualitas dan tingkat kesehatan biji kopi dan tanaman Anda dengan smartphone Anda!</string>
+    <string name="result">Hasil</string>
+    <string name="result_classification">Hasil Klassifikasi</string>
+    <string name="disease_checker">Pemeriksa Penyakit</string>
+    <string name="grade_coffee_health_and_quality_with_your_smartphone">Grade Coffee Health and Quality with Your Smartphone</string>
+    <string name="get_started">Get Started</string>
+    <string name="aboute">Tentang</string>
+    <string name="project_team_members">Anggota Tim Proyek</string>
+    <string name="exit">Tekan kembali lagi untuk keluar dari aplikasi</string>
+    <string name="moisture_level_tester">Penguji Tingkat Kelembaban</string>
+
+
+    <string-array name="data_name">
+        <item>Coffee Leaf Rust</item>
+        <item>Brown Eye Spot</item>
+        <item>Black Rot</item>
+        <item>Cercospora Leaf Spots</item>
+        <item>Sooty Molds</item>
+        <item>Phoma leaf spot </item>
+        <item>Coffee Leaf Miner</item>
+        <item>Red Spider Mite</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            - Pembentukan bintik-bintik kuning pucat di bagian bawah daun. Saat bintik-bintik berkembang, mereka menjadi bubuk dan
+berwarna kuning hingga oranye dan dapat mencapai 20 mm
+diameter.
+Kadang-kadang seluruh daun menjadi tertutup oleh
+bintik-bintik karat.
+ Spora karat yang lebih tua menjadi coklat di bagian tengah
+dikelilingi oleh bintik-bintik oranye pucat.
+ Terjadi penurunan daun, yang jika parah, dapat menyebabkan
+kehilangan dieback dan berry dan kehilangan hasil dan
+kualitas.
+ Buah beri cenderung sangat kecil, tidak sepenuhnya matang dan berubah
+Hitam
+</item>
+        <item>Daun menunjukkan bintik-bintik nekrotik melingkar dengan tepi coklat tua dan bagian tengah berwarna coklat muda atau pucat. - Bintik-bintik nekrotik bertambah besar, bagian tengah berubah menjadi abu-abu muda karena sporulasi oleh jamur dan runtuh meninggalkan lubang di tengah. - Daun yang terinfeksi menguning menyebabkan defoliasi dini.</item>
+        <item>Biasanya terjadi selama bulan-bulan monsun di daerah endemik dengan kelembaban tinggi dan kabut menggantung. - Menghitam dan selanjutnya membusuk daun muda, beri dan pucuk. - Daun yang sakit terlepas dari cabang dan menggantung melalui untaian jamur berlendir</item>
+        <item>Penyakit ini, juga disebut Iron Spot, disebabkan oleh jamur patogen, Cercospora coffeicola dan cenderung muncul pada tanaman kopi yang tumbuh di daerah dengan kelembaban dan curah hujan yang lebih tinggi dan pada tanaman yang stres</item>
+        <item>Jamur jelaga kopi terlihat setiap kali ada serangan kutu daun dan serangga skala berat. Jamur yang bertanggung jawab adalah ektofit dan bukan patogen. Jamur memakan kotoran dan sekresi serangga dan secara tidak langsung menghambat fungsi normal daun</item>
+        <item>merupakan penyakit utama tanaman kopi di daerah dengan kondisi suhu dan kelembaban tertentu. Terlepas dari pentingnya variabel lingkungan untuk perkembangan penyakit, sejauh ini mereka kurang dipahami.</item>
+        <item>Tanaman kopi menjadi sasaran sejumlah besar hama, di antaranya penambang daun kopi, Leucoptera coffeella Guérin-Méneville, 1842 (Lepidoptera-Lyonetiidae), sangat penting. Serangga ini, yang memakan sel-sel parenkim palisade daun (Crowe, 1964; Ramiro et al., 2004), menyebabkan kerusakan besar pada tanaman (Souza et al., 1998), dianggap sebagai hama utama tanaman ini. </item>
+        <item>adalah hama utama teh (Camellia sinensis) di sebagian besar negara penghasil teh. Nimfa dan sel dewasa RSM mengoyak sel, menghasilkan tanda coklat kemerahan yang khas pada permukaan atas daun dewasa, yang berubah menjadi merah pada kasus infestasi yang parah, yang mengakibatkan hilangnya panen.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/clr</item>
+        <item>@drawable/bes</item>
+        <item>@drawable/br</item>
+        <item>@drawable/cls</item>
+        <item>@drawable/sm</item>
+        <item>@drawable/pls</item>
+        <item>@drawable/clm</item>
+        <item>@drawable/rsm</item>
+    </string-array>
+</resources>

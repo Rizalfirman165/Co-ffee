@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Co-ffee</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="deskrip">Grade Coffee Health \nand Quality with \nYour Smartphone</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="name_title">Disease Checker</string>
+    <string name="keterangan">Make sure the image is not blurry</string>
+    <string name="gallery">GALLERY</string>
+    <string name="camera">CAMERA</string>
+    <string name="scanning">SCANNING</string>
+    <string name="message_validation">Image Must be selected first</string>
+    <string name="list_of_coffee_plant_diseases">List Of Coffee Plant Diseases</string>
+    <string name="detail_diseases">Detail Diseases</string>
+    <string name="peoject_id">Peoject ID : C22-PC377</string>
+    <string name="project_name">Project Name</string>
+    <string name="coo_ffee">Coo-ffee \n(Grade Coffee Health and Quality with Your Smartphone)</string>
+    <string name="project_themas">Project Themas</string>
+    <string name="isi_thema">Economic and Social Resilience \n(including agricultural and food security and \nsustainability, infrastructure, and\nregional development)</string>
+    <string name="nama1">(MD) A2193G1825 - M. Rizal Firmansyah</string>
+    <string name="name2">(ML) M2007F0790 - Ivan Arsyaditya Prananda</string>
+    <string name="name3">(ML) M2200F1864 - Mohamad Arsya Kaukabi</string>
+    <string name="name4">(ML) M2322F2828 - Muhammad Naufal Ariiq</string>
+    <string name="name6">(CC) C2012F1275 - Muhammad Syaiful Rahman</string>
+    <string name="name5">(CC) C2224W2052 - Aqshol Afifi</string>
+    <string name="executive_summary">Executive Summary</string>
+    <string name="isi">Understanding every aspect of your product is critical in building a resilient economy. As one of the largest producers of high demand, Indonesia needs a tool to support learning and assist in making good quality coffee with minimal cost, so how to do it? We proudly present our app with some features that can help coffee farmers and other stakeholders to analyze the quality of coffee beans and the coffee plant itself; with Co-ffee, you can easily understand the quality and health grade of your coffee beans and plants with your smartphone!</string>
+    <string name="result">Result</string>
+    <string name="result_classification">Result Classification</string>
+    <string name="disease_checker">Disease Checker</string>
+    <string name="grade_coffee_health_and_quality_with_your_smartphone">Grade Coffee Health and Quality with Your Smartphone</string>
+    <string name="get_started">Get Started</string>
+    <string name="aboute">Aboute</string>
+    <string name="project_team_members">Project Team Members</string>
+    <string name="exit">Press back again to exit app</string>
+    <string name="moisture_level_tester">Moisture Level Tester</string>
+
+
+    <string-array name="data_name">
+        <item>Coffee Leaf Rust</item>
+        <item>Brown Eye Spot</item>
+        <item>Black Rot</item>
+        <item>Cercospora Leaf Spots</item>
+        <item>Sooty Molds</item>
+        <item>Phoma leaf spot </item>
+        <item>Coffee Leaf Miner</item>
+        <item>Red Spider Mite</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            - Formation of pale yellow spots on the underside of the leaves. As the spots expand, they become powdery and
+yellow to orange in color and may reach 20 mm in
+diameter.
+Occasionally the whole leaf becomes covered with
+rust spots.
+ Older rust spores become brown at the center
+surrounded by powdery orange spots.
+ Leaf drop occurs, which if severe, can lead to
+dieback and berry loss and a loss of both yield and
+quality.
+ Berries tend to be very small, not fully ripe and turn
+Black
+</item>
+        <item>Leaves show circular necrotic spots with dark brown margin and light brown or pale center. - Necrotic spots increase in size, central portion turns light grey due to sporulation by the fungus and collapses leaving a hole at the center. - Infected leaves turn yellow causing pre-mature defoliation.</item>
+        <item>Usually occurs during monsoon months in endemic areas with high humidity and hanging mist. - Blackening and subsequent rotting of young leaves, berries and shoots. - Diseased leaves get detached from branches and hang out by means of slimy fungal strands</item>
+        <item>This disease, also called Iron Spot, is caused by the fungal pathogen, Cercospora coffeicola and tends to present itself on coffee plants grown in areas of higher moisture and rainfall and on plants that are stressed</item>
+        <item>Coffee soot mold is seen whenever there is a heavy infestation of aphids and scale insects. The fungi responsible are ectophytes and not pathogens. The fungus feeds on the dirt and secretions of insects and indirectly inhibits the normal function of the leaves</item>
+        <item>is a major disease of coffee plants in regions with specific conditions of temperature and humidity. Despite the importance of environmental variables for disease progression, so far they have been poorly understood.</item>
+        <item>The coffee plant is the target of a large number of pests, among which the coffee leaf miner, Leucoptera coffeella Guérin-Méneville, 1842 (Lepidoptera-Lyonetiidae), is especially important. This insect, which feeds on the palisade parenchyma cells of the leaves (Crowe, 1964; Ramiro et al., 2004), causes considerable damage to the plants (Souza et al., 1998), being considered the principal pest of this crop</item>
+        <item>is a major pest of tea (Camellia sinensis) in most tea-producing countries. Nymphs and adults of RSM lacerate cells, producing minute characteristic reddish brown marks on the upper surface of mature leaves, which turn red in severe cases of infestation, resulting in crop loss.</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/clr</item>
+        <item>@drawable/bes</item>
+        <item>@drawable/br</item>
+        <item>@drawable/cls</item>
+        <item>@drawable/sm</item>
+        <item>@drawable/pls</item>
+        <item>@drawable/clm</item>
+        <item>@drawable/rsm</item>
+    </string-array>
+</resources>
