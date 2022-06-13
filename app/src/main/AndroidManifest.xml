@@ -21,6 +21,9 @@
         android:theme="@style/Theme.Coffee"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".ui.result.ResultMoistureActivity"
+            android:exported="false" />
+        <activity
             android:name="com.rizalfirman.co_ffee.ui.moisture.MoistureActivity"
             android:exported="false" />
         <activity

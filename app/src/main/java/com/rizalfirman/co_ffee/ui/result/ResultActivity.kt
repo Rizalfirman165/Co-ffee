@@ -20,14 +20,11 @@ class ResultActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val result = intent.getParcelableExtra<Response>(EXTRA_DATA)
-        val resultMoisture = intent.getParcelableExtra<ResponseMoisture>(DATA_MOISTURE)
-
         val resultImage = intent.getStringExtra(EXTRA_IMAGE)
 //        val drawable : Drawable = resources.getDrawable(resultImage)
         Log.d("ss ", result.toString())
         binding.apply {
             tvResult.text = "Plant Disease \n ${result?.diagnose}"
-            tvResult.text = "Moisture Level tester \n${resultMoisture?.kadarAir}"
 
         }
         binding.previewImageView.setImageURI(Uri.parse(resultImage))
@@ -44,7 +41,6 @@ class ResultActivity : AppCompatActivity() {
     }
 
     companion object {
-        const val DATA_MOISTURE = "moisture_data"
         const val EXTRA_DATA = "extra_data"
         const val EXTRA_IMAGE = "extra_image"
     }

@@ -35,6 +35,7 @@
     <string name="project_team_members">Anggota Tim Proyek</string>
     <string name="exit">Tekan kembali lagi untuk keluar dari aplikasi</string>
     <string name="moisture_level_tester">Penguji Tingkat Kelembaban</string>
+    <string name="result_moisture">Result Moisture</string>
 
 
     <string-array name="data_name">

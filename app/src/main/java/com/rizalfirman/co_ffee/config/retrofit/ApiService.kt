@@ -10,7 +10,7 @@ import retrofit2.http.Part
 interface ApiService {
 
 
-    @POST("predict")
+    @POST("desease")
     @Multipart
     suspend fun diagnose(
         @Part file: MultipartBody.Part,

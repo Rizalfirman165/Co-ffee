@@ -26,6 +26,7 @@
     <string name="isi">Understanding every aspect of your product is critical in building a resilient economy. As one of the largest producers of high demand, Indonesia needs a tool to support learning and assist in making good quality coffee with minimal cost, so how to do it? We proudly present our app with some features that can help coffee farmers and other stakeholders to analyze the quality of coffee beans and the coffee plant itself; with Co-ffee, you can easily understand the quality and health grade of your coffee beans and plants with your smartphone!</string>
     <string name="result">Result</string>
     <string name="result_classification">Result Classification</string>
+    <string name="result_moisture">Result Moisture</string>
     <string name="disease_checker">Disease Checker</string>
     <string name="grade_coffee_health_and_quality_with_your_smartphone">Grade Coffee Health and Quality with Your Smartphone</string>
     <string name="get_started">Get Started</string>

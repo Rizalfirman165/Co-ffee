@@ -17,7 +17,7 @@ object ApiMoisture {
             }
 
         val retrofitMoisture = Retrofit.Builder()
-            .baseUrl("http://35.238.198.3:5000/")
+            .baseUrl("http://34.71.21.228:5000/")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
         return retrofitMoisture.create(ApiService::class.java)

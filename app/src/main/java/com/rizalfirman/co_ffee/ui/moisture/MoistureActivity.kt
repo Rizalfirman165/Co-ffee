@@ -20,6 +20,7 @@ import com.rizalfirman.co_ffee.config.Media
 import com.rizalfirman.co_ffee.databinding.ActivityMoistureBinding
 import com.rizalfirman.co_ffee.ui.main.MainActivity
 import com.rizalfirman.co_ffee.ui.result.ResultActivity
+import com.rizalfirman.co_ffee.ui.result.ResultMoistureActivity
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.MultipartBody
 import okhttp3.RequestBody.Companion.asRequestBody
@@ -141,14 +142,14 @@ class MoistureActivity : AppCompatActivity() {
                             binding.progressBar.visibility = View.GONE
                             getWindow().clearFlags(WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE);
                             val intent =
-                                Intent(this@MoistureActivity, ResultActivity::class.java).apply {
+                                Intent(this@MoistureActivity, ResultMoistureActivity::class.java).apply {
                                     putExtra(
-                                        ResultActivity.DATA_MOISTURE,
+                                        ResultMoistureActivity.DATA_MOISTURE,
                                         result.data
 
                                     )
                                     putExtra(
-                                        ResultActivity.EXTRA_IMAGE,
+                                        ResultMoistureActivity.EXTRA_IMAGE,
                                         imageFile.toString()
 
                                     )
